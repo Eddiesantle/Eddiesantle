@@ -1,7 +1,7 @@
 ## Olá, Eddie Santos prazer!
 
 - ⚙ Trabalho: Arquiteto de Software | Desenvolvedor full stack
-- 🔭 Estudando: React.js | Node.js | Next.js
+- 🔭 Estudando: DDD Domain-Driven Design
 
 <div align="center">
   <a href="https://github.com/Eddiesantle">
